@@ -31,4 +31,35 @@ Nombre               Población    Superficie (km²) Continente
 Chile                19,116,209   756,102         América
 Australia            25,687,041   7,692,024       Oceanía
 
+
+=== MENÚ PRINCIPAL ===
+1. Buscar país por nombre
+2. Filtrar por continente
+3. Filtrar por rango de población
+4. Filtrar por rango de superficie
+5. Ordenar países
+6. Mostrar estadísticas
+7. Mostrar todos los países
+0. Salir
+Seleccione una opción: 7
+
+=== Todos los Países (15 países) ===
+Nombre               Población    Superficie (km²) Continente
+----------------------------------------------------------------------
+Argentina            45,376,763   2,780,400       América
+Brasil               213,993,437  8,515,767       América
+Chile                19,116,209   756,102         América
+Estados Unidos       331,893,745  9,833,517       América
+Canadá               38,005,238   9,984,670       América
+España               47,351,567   505,990         Europa
+Francia              67,422,000   551,695         Europa
+Alemania             83,149,300   357,022         Europa
+Reino Unido          68,207,116   243,610         Europa
+Japón                125,800,000  377,975         Asia
+China                1,412,600,000 9,596,961       Asia
+India                1,393,409,038 3,287,263       Asia
+Australia            25,687,041   7,692,024       Oceanía
+Sudáfrica            59,308,690   1,219,090       África
+Egipto               109,262,178  1,002,450       África
+
 #  Martina Guadalupe Suarez, Yoselie Ada Aquino
