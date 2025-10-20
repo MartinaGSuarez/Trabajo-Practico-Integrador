@@ -6,7 +6,8 @@
   Paso 1: Descargar el archivo "Trabajo_Parctico_Integrador".
   Paso 2: Abrir Visual Studio Code para ejecutar el programa.
   Paso 3: Ejecutar el programa en la pestaña "menu.py"
-  Paso 4: Para finalizar, seleccione cualquier opcion de las que muestra el programa.
+  Paso 4: Para ingresar al menu seleccione la opcion "1" para la busqueda de paises. Si desea elegir otra opcion seleccione del "2-7".
+  Paso 5: Para finalizar, seleccione la opcion "0" que muestra el menu del programa.
 
 #  Ejemplos de entrada y de salida:
 
